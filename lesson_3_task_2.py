@@ -10,4 +10,3 @@ catalog.append(Smartphone("OnePlus", "9 Pro", "+79567890123"))
 
 for phone in catalog:
     print(f"{phone.brand} - {phone.model}. {phone.phone_number}")
-    
